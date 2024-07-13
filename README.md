@@ -5,7 +5,8 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 ## Project PPT
 ### Online Version
 https://www.canva.com/design/DAGITqeIK6g/suAMuvON3ucCEMhuPYSoUg/edit
-### Github Version
+### Github Version (SELECT VIEW RAW , DOWNLOAD AND SEE)
+https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
 
 
 
