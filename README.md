@@ -104,3 +104,95 @@ Provides a seamless and interactive experience, increasing user satisfaction and
 
 ### Revenue Boost:
 By showcasing trending items and recommending similar products, the project drives sales and contributes to Myntra's revenue growth.
+
+## Prerequisites
+
+- Python (latest version recommended)
+- Git
+
+## Setup Instructions
+
+### Step 1: Clone the Repository
+
+Clone the repository to your local machine:
+
+```sh
+git clone https://github.com/yourusername/yourproject.git
+cd frontend
+
+### Step 2: Set Up a Virtual Environment
+Create and activate a virtual environment to manage dependencies:
+
+On Windows:
+sh
+python -m venv myvenv
+myvenv\Scripts\activate
+On macOS and Linux:
+sh
+python3 -m venv myvenv
+source myvenv/bin/activate
+
+### Step 3: Install Dependencies
+Install all required packages using pip:
+
+
+sh
+pip install flask
+pip install flask-cors
+pip install opencv-python
+pip install pillow
+pip install requests
+pip install selenium
+pip install scikit-learn
+pip install tensorflow
+pip install tqdm
+Step 4: Install Additional Tools
+Install Jupyter Notebook:
+
+sh
+pip install jupyter notebook
+
+### Step 5: Run the Application
+To run the Flask application, use the following command:
+
+sh
+pyhton pt.ipynb
+
+
+### Additional Notes
+Ensure you have a suitable version of ChromeDriver installed for Selenium.
+Download it from here.
+For TensorFlow, additional libraries may be required depending on your setup (e.g., CUDA for GPU support).
+
+### Import Statements
+Here are the necessary imports for your project:
+
+import os
+import time
+import requests
+import tensorflow as tf
+from tensorflow.keras.preprocessing import image
+from tensorflow.keras.layers import GlobalMaxPooling2D
+from tensorflow.keras.applications.resnet50 import ResNet50, preprocess_input
+import numpy as np
+from numpy.linalg import norm
+from tqdm import tqdm
+import pickle
+from flask import Flask, jsonify, request, send_from_directory
+from flask_cors import CORS
+from selenium import webdriver
+from selenium.webdriver import ChromeOptions, Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import StaleElementReferenceException, TimeoutException, NoSuchElementException
+from sklearn.neighbors import NearestNeighbors
+import cv2
+import base64
+import re
+from PIL import Image
+from io import BytesIO
+
+
+
+
