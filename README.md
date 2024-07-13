@@ -117,10 +117,10 @@ By showcasing trending items and recommending similar products, the project driv
 Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Riya79hp/TrendLensmyntra.git
 cd frontend
 
-### Step 2: Set Up a Virtual Environment
+Step 2: Set Up a Virtual Environment
 Create and activate a virtual environment to manage dependencies:
 
 On Windows:
@@ -132,7 +132,7 @@ sh
 python3 -m venv myvenv
 source myvenv/bin/activate
 
-### Step 3: Install Dependencies
+Step 3: Install Dependencies
 Install all required packages using pip:
 
 
@@ -152,19 +152,19 @@ Install Jupyter Notebook:
 sh
 pip install jupyter notebook
 
-### Step 5: Run the Application
+Step 5: Run the Application
 To run the Flask application, use the following command:
 
 sh
 pyhton pt.ipynb
 
 
-### Additional Notes
+Additional Notes
 Ensure you have a suitable version of ChromeDriver installed for Selenium.
 Download it from here.
 For TensorFlow, additional libraries may be required depending on your setup (e.g., CUDA for GPU support).
 
-### Import Statements
+Import Statements
 Here are the necessary imports for your project:
 
 import os
