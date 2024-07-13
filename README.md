@@ -199,7 +199,10 @@ import base64
 import re
 from PIL import Image
 from io import BytesIO
+```
 
-
+## Made with ❤️  By HERCODE For Myntra
+### Riya Kumari
+### Khushi Chaudhary
 
 
