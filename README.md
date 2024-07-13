@@ -2,6 +2,14 @@
 ## Objective:
 TrendLens aims to enhance the shopping experience by integrating advanced web scraping and machine learning technologies. It automates the process of identifying trending clothing items from social media, analyzes them, and recommends similar products available on Myntra, thus increasing user engagement and boosting sales.
 
+## Project PPT
+### Online Version
+https://www.canva.com/design/DAGITqeIK6g/suAMuvON3ucCEMhuPYSoUg/edit
+### Github Version
+
+
+
+
 ## Demo Video
 To be updated soon
 
