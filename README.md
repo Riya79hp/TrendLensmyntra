@@ -39,7 +39,7 @@ OpenCV assists in processing these images to ensure they are in the correct form
 The processed images are compared against User Selected image to find visually similar clothing items.
 The recommendation algorithm matches the style, color, and other features of the trending images with items available on Myntra, achieving an accuracy improvement of 75%.
 
-![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-13%20023133.png)
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-13%20023133.png)
 
 ### User Interface:
 The React.js frontend allows users to interact seamlessly with the application.
@@ -48,46 +48,46 @@ The interface dynamically updates to provide personalized and relevant suggestio
 
 
 ## Working Flowchart
-![](https://github.com/Riya79hp/TrendLens/blob/main/Flowchart)
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Flowchart)
 
 
 ## Working:
 ### Gathering Tags ✅ (Attack No-1)
-![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-11%20161128.png) 
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20161128.png) 
 #### Barbie movie (Movie centric)
-![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-11%20161937.png)
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20161937.png)
 #### Zendaya fashion (celeb centric)
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-11%20174736.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20174736.png)
  #### Personal Noise watch (personal centric)
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-11%20172022.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20172022.png)
  #### Personal Black Saree (personal centric)
 
 
  ### Using RESNET(CNN) on Myntra's Dataset  ✅ (Attack No-2)
 
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-11%20180023.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20180023.png)
 
 
  ### Using CNN on user selected image and performing KNN to find the nearest vectors  ✅ (Attack No-3)
 
  
 
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-12%20173152.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20173152.png)
  #### Black bodycon recommendation from #zendayafashion
 
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-12%20181031.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20181031.png)
  #### Coffee coloured shouldercut bodycon from #zendayafashion
 
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-12%20182114.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20182114.png)
  #### Steel strap noise watch from #noisewatch
 
 
- ![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-12%20181838.png)
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20181838.png)
 
  #### Pink and white check from from #barbiemovie
 
 
-![](https://github.com/Riya79hp/TrendLens/blob/main/Screenshot%202024-07-12%20183403.png)
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20183403.png)
 #### Black saree trending from #blacksaree
 
 
