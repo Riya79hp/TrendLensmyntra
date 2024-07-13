@@ -1,0 +1,133 @@
+/* Container styling */
+div {
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    background: linear-gradient(to right, #f5f7fa, #c3cfe2);
+    color: #333;
+  }
+  
+  /* Title styling */
+  h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #4b79a1;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+  }
+  
+  /* Input styling */
+  input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    border: 2px solid #4b79a1;
+    border-radius: 25px;
+    outline: none;
+    transition: all 0.3s ease;
+  }
+  
+  input[type="text"]::placeholder {
+    color: #4b79a1;
+    font-style: italic;
+  }
+  
+  input[type="text"]:focus {
+    border-color: #283e51;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  }
+  
+  /* Button styling */
+  button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background: #4b79a1;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+    font-size: 1em;
+  }
+  
+  button:hover {
+    background: #283e51;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+  
+  button:active {
+    background: #1f2f3e;
+  }
+  
+  /* Loading and error messages */
+  p {
+    text-align: center;
+    font-size: 1.2em;
+  }
+  
+  /* Image grid styling */
+  div[style*="display: 'flex'"] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* Individual image container */
+  div[style*="margin: '10px'"] {
+    margin: 10px;
+    position: relative;
+    transition: transform 0.3s ease;
+  }
+  
+  div[style*="margin: '10px'"]:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+  
+  /* Image styling */
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+  }
+  @keyframes blinkBackground {
+    0%, 100% {
+      background-color: #ffeb3b;
+    }
+    50% {
+      background-color: #f44336;
+    }
+  }
+  
+  h {
+    font-size: 28px;
+    font-weight: bold;
+    animation: blinkBackground 1s infinite;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    text-transform: uppercase;
+  }
+  
+  /* Dynamic placeholder text animation */
+  @keyframes placeholderChange {
+    0% { content: "Search by movie name"; }
+    33% { content: "Search your favorite clothing"; }
+    66% { content: "Search your celeb style"; }
+    100% { content: "Search by movie name"; }
+  }
+  
+  input[type="text"]::placeholder {
+    animation: placeholderChange 10s infinite;
+    color: #4b79a1;
+    font-style: italic;
+  }
+  
