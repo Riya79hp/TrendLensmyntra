@@ -116,6 +116,7 @@ By showcasing trending items and recommending similar products, the project driv
 Step 1: Clone the Repository
 Clone the repository to your local machine:
 git clone https://github.com/Riya79hp/TrendLensmyntra.git
+Jupyter notebook code lies in src of the folder
 cd frontend
 
 Step 2: Set Up a Virtual Environment
