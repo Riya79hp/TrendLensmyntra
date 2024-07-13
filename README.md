@@ -112,17 +112,14 @@ By showcasing trending items and recommending similar products, the project driv
 
 ## Setup Instructions
 
-### Step 1: Clone the Repository
-
-Clone the repository to your local machine:
-
 ```sh
+Step 1: Clone the Repository
+Clone the repository to your local machine:
 git clone https://github.com/Riya79hp/TrendLensmyntra.git
 cd frontend
 
 Step 2: Set Up a Virtual Environment
 Create and activate a virtual environment to manage dependencies:
-
 On Windows:
 sh
 python -m venv myvenv
@@ -132,10 +129,9 @@ sh
 python3 -m venv myvenv
 source myvenv/bin/activate
 
+
 Step 3: Install Dependencies
 Install all required packages using pip:
-
-
 sh
 pip install flask
 pip install flask-cors
@@ -146,15 +142,15 @@ pip install selenium
 pip install scikit-learn
 pip install tensorflow
 pip install tqdm
+
+
 Step 4: Install Additional Tools
 Install Jupyter Notebook:
-
 sh
 pip install jupyter notebook
 
 Step 5: Run the Application
 To run the Flask application, use the following command:
-
 sh
 pyhton pt.ipynb
 
