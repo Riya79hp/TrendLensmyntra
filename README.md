@@ -50,6 +50,8 @@ The interface dynamically updates to provide personalized and relevant suggestio
 ## Working Flowchart
 ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Flowchart)
 
+LINK :https://www.canva.com/design/DAGKqp3y8ac/qOpRdE4a5BPrFb-Phlc2pg/edit
+
 
 ## Working:
 ### Gathering Tags ✅ (Attack No-1)
