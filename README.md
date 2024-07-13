@@ -65,7 +65,7 @@ The interface dynamically updates to provide personalized and relevant suggestio
 
 
 ## Working Flowchart
-![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Use%20of%20selenium%20to%20gather%20trending%20hashtag%20images%20(3).jpg)
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Flowcharttrend)
 
 LINK :https://www.canva.com/design/DAGKqp3y8ac/qOpRdE4a5BPrFb-Phlc2pg/edit
 
