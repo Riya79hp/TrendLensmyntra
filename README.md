@@ -1,6 +1,8 @@
 # TrendLens
 ## Objective:
 TrendLens aims to enhance the shopping experience by integrating advanced web scraping and machine learning technologies. It automates the process of identifying trending clothing items from social media, analyzes them, and recommends similar products available on Myntra, thus increasing user engagement and boosting sales.
+
+
 [![](https://img.shields.io/badge/Made_with-Selenium-green?style=for-the-badge&logo=selenium)](https://www.selenium.dev)
 [![](https://img.shields.io/badge/Made_with-Flask-green?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![](https://img.shields.io/badge/Made_with-HTML-green?style=for-the-badge&logo=HTML5)](https://html.com/)
@@ -9,6 +11,9 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 [![](https://img.shields.io/badge/Made_with-Python-green?style=for-the-badge&logo=python)](https://www.python.org)
 [![](https://img.shields.io/badge/Made_with-Tensorflow-green?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org)
 [![](https://img.shields.io/badge/Made_with-React-green?style=for-the-badge&logo=react)](https://reactnative.dev/)
+[![](https://img.shields.io/badge/Made_with-Scikit--learn-green?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
+[![](https://img.shields.io/badge/Made_with-Pickle-green?style=for-the-badge&logo=pickle)](https://docs.python.org/3/library/pickle.html)
+
 ## Project PPT
 ### Online Version : https://www.canva.com/design/DAGITqeIK6g/suAMuvON3ucCEMhuPYSoUg/edit
 ### Github Version (SELECT VIEW RAW , DOWNLOAD AND SEE) : https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
