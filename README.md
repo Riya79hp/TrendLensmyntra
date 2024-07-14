@@ -56,7 +56,7 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 
 ## Implement Yourself
 
-### Run Features extract File (extract all features from the images folder dataset)
+### Run Features extract File (Extractfeaturesfromdataset.ipynb)
 ### Run server (pt.ipbny)
 ### Run Frontend (npm start)
 ### Search any query
