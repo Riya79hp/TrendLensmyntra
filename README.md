@@ -56,13 +56,13 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 
 ## Implement Yourself
 
-## Run Features extract File (extract all features from the images folder dataset)
-## Run server (pt.ipbny)
-## Run Frontend (npm start)
-## Search any query
-## Get the results in displayed
-## click on reccommend like this
-## Get recommended exact similar clothes
+### Run Features extract File (extract all features from the images folder dataset)
+### Run server (pt.ipbny)
+### Run Frontend (npm start)
+### Search any query
+### Get the results in displayed
+### click on reccommend like this
+### Get recommended exact similar clothes
 
 ## Workflow:
 
