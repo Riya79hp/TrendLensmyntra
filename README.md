@@ -12,11 +12,16 @@ https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
 
 
 ## Demo Video
-To be updated soon
+Online Version:
+
+Github Version:
 
 
 ## Tech stack explanation video
-To be updated soon
+Online Version:
+
+
+Github Version:
 
 
 
