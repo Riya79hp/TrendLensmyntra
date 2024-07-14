@@ -13,6 +13,7 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 [![](https://img.shields.io/badge/Made_with-React-green?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/Made_with-Scikit--learn-green?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
 [![](https://img.shields.io/badge/Made_with-Pickle-green?style=for-the-badge&logo=pickle)](https://docs.python.org/3/library/pickle.html)
+[![](https://img.shields.io/badge/Made_with-ChromeDriver-green?style=for-the-badge&logo=google-chrome)](https://sites.google.com/a/chromium.org/chromedriver/)
 
 ## Project PPT
 ### Online Version : https://www.canva.com/design/DAGITqeIK6g/suAMuvON3ucCEMhuPYSoUg/edit
