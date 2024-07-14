@@ -12,9 +12,9 @@ https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
 
 
 ## Demo Video
-Online Version: https://drive.google.com/file/d/12IVDIrokEyYRDmlPmR39P085RNQTw2Oe/view?usp=sharing
+### Online Version: https://drive.google.com/file/d/12IVDIrokEyYRDmlPmR39P085RNQTw2Oe/view?usp=sharing
 
-Github Version:
+### Github Version (SELECT VIEW RAW , DOWNLOAD AND SEE) : https://github.com/Riya79hp/TrendLensmyntra/blob/main/Demo%20Video.mp4 
 
 
 ## Tech stack explanation video
