@@ -12,7 +12,7 @@ https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
 
 
 ## Demo Video
-Online Version:
+Online Version: https://drive.google.com/file/d/12IVDIrokEyYRDmlPmR39P085RNQTw2Oe/view?usp=sharing
 
 Github Version:
 
