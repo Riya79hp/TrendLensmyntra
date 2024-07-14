@@ -64,6 +64,8 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 ### click on reccommend like this
 ### Get recommended exact similar clothes
 
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
+
 ## Workflow:
 
 ### Data Collection:
