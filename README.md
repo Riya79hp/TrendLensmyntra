@@ -18,10 +18,10 @@ https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
 
 
 ## Tech stack explanation video
-Online Version:
+### Online Version: https://drive.google.com/file/d/1WdiHj90AtpeKHkqkV8XtDwWtHsy9tNcB/view?usp=drive_link
 
 
-Github Version:
+### Github Version:
 
 
 
