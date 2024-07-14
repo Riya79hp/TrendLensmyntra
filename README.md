@@ -62,6 +62,7 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 ### Search any query
 ### Get the results in displayed
 ### click on reccommend like this
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20181046.png)
 ### Get recommended exact similar clothes
 
 ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
