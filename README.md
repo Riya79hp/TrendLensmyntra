@@ -54,6 +54,16 @@ TrendLens aims to enhance the shopping experience by integrating advanced web sc
 
   ![](https://github.com/Riya79hp/TrendLens/blob/main/TechStack)
 
+## Implement Yourself
+
+## Run Features extract File (extract all features from the images folder dataset)
+## Run server (pt.ipbny)
+## Run Frontend (npm start)
+## Search any query
+## Get the results in displayed
+## click on reccommend like this
+## Get recommended exact similar clothes
+
 ## Workflow:
 
 ### Data Collection:
@@ -225,6 +235,8 @@ import re
 from PIL import Image
 from io import BytesIO
 ```
+
+
 
 ## Made with ❤️  By HERCODE For Myntra
 ### Riya Kumari
