@@ -21,7 +21,7 @@ https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendLens.pptx
 ### Online Version: https://drive.google.com/file/d/1WdiHj90AtpeKHkqkV8XtDwWtHsy9tNcB/view?usp=drive_link
 
 
-### Github Version:
+### Github Version: https://github.com/Riya79hp/TrendLensmyntra/blob/main/TrendlensTechstack.mp4
 
 
 
