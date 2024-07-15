@@ -75,7 +75,7 @@ Selenium scripts log in to social media platforms and scrape trending hashtags a
 ### Image Analysis:
 Myntra's images are fed into TensorFlow's CNN models, specifically ResNet-50, to extract features and identify patterns.
 OpenCV assists in processing these images to ensure they are in the correct format and quality for analysis.
-![](https://github.com/Riya79hp/TrendLens/blob/main/Readme_assests/Screenshot%202024-07-13%20023205.png)
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-13%20023205.png)
 
 
 
