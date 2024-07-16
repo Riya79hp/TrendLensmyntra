@@ -118,25 +118,32 @@ LINK :https://www.canva.com/design/DAGKqp3y8ac/qOpRdE4a5BPrFb-Phlc2pg/edit
 
  ### Using CNN on user selected image and performing KNN to find the nearest vectors  ✅ (Attack No-3)
 
+
+ ### Black bodycon recommendation trending from #zendayafashion
+![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20173152.png)
+
+
+### Coffee coloured shouldercut bodycon trending from #zendayafashion
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20181031.png)
  
 
- ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20173152.png)
- #### Black bodycon recommendation from #zendayafashion
-
- ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20181031.png)
- #### Coffee coloured shouldercut bodycon from #zendayafashion
-
+ ### Steel strap noise watch trending  from #noisewatch
  ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20182114.png)
- #### Steel strap noise watch from #noisewatch
 
 
+ ### Pink and white check from from #barbiemovie
  ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20181838.png)
 
- #### Pink and white check from from #barbiemovie
 
 
+ ### Heeramandi movie lehenga is at your eyesight #heeramandimovie
+ ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-16%20145740.png)
+
+
+
+### Black saree trending from #blacksaree
 ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-12%20183403.png)
-#### Black saree trending from #blacksaree
+
 
 
 ## Key Benefits:
