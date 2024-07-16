@@ -102,13 +102,13 @@ LINK :https://www.canva.com/design/DAGKqp3y8ac/qOpRdE4a5BPrFb-Phlc2pg/edit
 ## Working:
 ### Gathering Tags ✅ (Attack No-1)
 ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20161128.png) 
-#### Barbie movie (Movie centric)
+#### Barbie movie trending(Movie centric)
 ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20161937.png)
-#### Zendaya fashion (celeb centric)
+#### Zendaya fashion trending (celeb centric)
  ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20174736.png)
- #### Personal Noise watch (personal centric)
+ #### Personal Noise watch trending (personal centric)
  ![](https://github.com/Riya79hp/TrendLensmyntra/blob/main/Readme_assests/Screenshot%202024-07-11%20172022.png)
- #### Personal Black Saree (personal centric)
+ #### Personal Black Saree  trending(personal centric)
 
 
  ### Using RESNET(CNN) on Myntra's Dataset  ✅ (Attack No-2)
